@@ -4,4 +4,4 @@ Nothing special, just testing git capabiliteis adding .jpg.
 
 Image of cat:
 
-![image of cat](https://github.com/MarWasik/Visual-Studio-Code-shortcuts/blob/master/VSC%20shortcuts.jpg)
+![image of cat](https://hashtag3r.com/35-adorable-funny-cats-make-us-fall-love-life/)
